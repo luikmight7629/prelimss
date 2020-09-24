@@ -1,0 +1,65 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.box
+{
+	background-color: #a9d7e9;
+	margin:0 auto;
+	text-align: center;
+	width: 70%;
+}
+.boxx
+{
+	background-color: #f3f3f3;
+	width: 87.5%;
+	margin: 0 auto;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px; 
+	padding: 20px;
+}
+
+.col1
+{
+	text-align: right;
+	margin: auto 0;
+}
+.col2
+{
+	text-align: left;
+		margin: auto 0;
+}
+.col1, .col2
+{	
+	width: 50%;
+	display: inline-block;
+	
+	
+}
+select
+{
+	margin-left: 10px;
+}
+input[type=text],input[type=number],input[type=email]
+{
+	margin:10px 10px;
+	padding: 5px 0;
+	width: 250px;
+}
+select
+{
+		margin: 10px 10px;
+	padding: 5px 0;
+}
+input[type=radio]
+{
+		margin:5px 10px;
+	padding: 10px 0;
+}
+.lbl1
+{
+
+}
